@@ -1,0 +1,10 @@
+
+.heading
+{
+    color:white;
+}
+.container-fluid {
+    background-color: darkslategrey;
+    padding: 20px;
+    text-align:center;
+}
